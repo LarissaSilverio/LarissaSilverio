@@ -1,5 +1,5 @@
 ## Olá! Sou a Larissa Silvério 👋
-![Larissa Silvério's GitHub stats](https://github-readme-stats.vercel.app/api?username=LarissaSilverio&show_icons=true&theme=dracula)
+
 
 ### Tecnologias e Ferramentas:
 
