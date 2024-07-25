@@ -14,7 +14,7 @@
 - Graduanda em **Análise e Desenvolvimento de Sistemas** - SPTech (1/5)
 - **Hard Skills:** Desenvolvimento web, Front-End, e Desing
 - **Soft Skills:** Trabalho em equipe, Comunicação e Empatia
-
+<br>
 ### Curiosidades:
 - 🎤 Sou cantora e toco violão, a música estimula a minha criatividade e faz grande parte da minha vida.
 - 😺 Tenho uma gata que se chama Katy e ela sempre me faz companhia quando estou codando.
